@@ -3,11 +3,8 @@ body{
     margin: 20px;
     background-color: black;
     color:black;
-    /* font-size: 20px; */
     font-family: 'Inter', sans-serif;
 }
-
-/* navbar starts here */
 
 
 nav{
@@ -37,16 +34,8 @@ button{
 }
 
 
-/* ends here */
-
-
-
-
-/* main container */
-
-
 .container{
-    /* border: 2px solid red; */
+    
     background-color: black;
     padding: 5px;
     margin-top: 15px;
@@ -62,12 +51,6 @@ button{
 }
 
 
-
-
-
-
-
-
 .gr1 p{
     padding: 10px 20px;
     display: inline-block;
@@ -77,16 +60,11 @@ button{
 }
 
 
-
-
-/* main container of cards */
-
 .gr1{
     padding: 20px;
     background-color: #E0D6C2;
     grid-row: 1/3;
     align-content: center;
-    padding
    
 }
 
@@ -109,13 +87,6 @@ button{
     background-color: #B5A38D;
 
 }
-
-/* it ends here */
-
-
-
-
-/* only images style */
 
 
 .gr1 img{
@@ -144,11 +115,7 @@ button{
 
 }
 
-/* image styling ends */
 
-
-
-/*  only get and arrow  */
 .get{
     
     display: flex;
@@ -161,12 +128,6 @@ button{
     align-items: center;
     
 }
-
-
-/* ends heer */
-
-
-
 
 
 
@@ -216,13 +177,7 @@ button{
     overflow: hidden;
 }
 
-
-
-
-
-/* responsive */
-
-
+/* device support responsive*/
 @media (max-width: 1125px){
  
     nav .coll{
